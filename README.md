@@ -1,4 +1,4 @@
-# Breast Cancer Detection with Machine Learning
+# ML Breast Cancer Detection
 This project focuses on detecting breast cancer by classifying tumors as either malignant or benign using machine learning techniques. The dataset used is the Breast Cancer Wisconsin (Diagnostic) Dataset. The project includes data cleaning, training various Support Vector Machine (SVM) classifiers, and comparing their performance. The data may be found on [Kaggle.](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 
 Below you will see the project split into 4 major tasks and what they require:
