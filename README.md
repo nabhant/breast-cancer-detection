@@ -12,7 +12,7 @@ This project focuses on detecting breast cancer by classifying tumors as either 
 - Remove rows with empty cells and unnecessary columns.
 - Split the data into training (80%) and testing (20%) sets.
 
-##Data Preparation:
+## Data Preparation:
 - Standardize the features using StandardScaler.
 - Separate features and labels for training and testing.
 
